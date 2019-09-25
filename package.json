@@ -1,0 +1,22 @@
+{
+  "name": "e2z",
+  "version": "1.0.1",
+  "description": "中英文互译的命令行工具",
+  "bin": {
+    "e2z": "index.js"
+  },
+  "keywords": [
+    "翻译",
+    "中英文互译",
+    "命令行工具"
+  ],
+  "author": "chenzedong <625402731@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^3.0.1",
+    "ora": "^4.0.1"
+  }
+}
