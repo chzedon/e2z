@@ -1,6 +1,6 @@
 {
   "name": "e2z",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "中英文互译的命令行工具",
   "bin": {
     "e2z": "index.js"
@@ -18,5 +18,10 @@
     "cheerio": "^1.0.0-rc.3",
     "commander": "^3.0.1",
     "ora": "^4.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzedong5/e2z.git"
+  },
+  "homepage": "https://github.com/chenzedong5/e2z#readme"
 }
