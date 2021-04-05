@@ -13,7 +13,7 @@
   "author": "chenzedong <625402731@qq.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "cheerio": "^1.0.0-rc.3",
     "commander": "^3.0.1",
